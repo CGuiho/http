@@ -1,2 +1,2 @@
 # http
-GUIHO Http Helpers
+Web standards HTTP helpers
